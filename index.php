@@ -2,6 +2,6 @@
 
 $name = Mike;
 $surname = Gordievsky;
-echo "Hello from web-server /n Created by" . $name . " " . $surname
+echo "Hello from web-server /n Created by <font color=blue>" . $name . " " . $surname . "</font>";
 
 ?>
